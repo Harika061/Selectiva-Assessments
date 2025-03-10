@@ -1,3 +1,3 @@
 # Selectiva-Assessments
 
-This repository contains both basic and advanced SQL questions and answers. Thank you.
+This repository contains both basic and advanced SQL queries. Thank you.
